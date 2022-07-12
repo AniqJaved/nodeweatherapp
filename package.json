@@ -1,0 +1,15 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Weather app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aniq javed",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "requests": "^0.3.0"
+  }
+}
